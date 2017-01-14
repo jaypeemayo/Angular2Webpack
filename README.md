@@ -1,5 +1,9 @@
 # Angular2Webpack
 
-npm install
+This is the code following the steps from https://angular.io/docs/ts/latest/guide/webpack.html
 
-npm start
+To try this:
+
+1. npm install
+
+2. npm start
